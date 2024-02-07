@@ -1,0 +1,6 @@
+Hi! I am Cazhia Reese Lleva.
+Here are my current expectations for the CMSC 100 course:
+1. By the end of the course, I expect that I would be able to acquire web programming skills that I can use for future project.
+2. I expect that I would be able to use git and github with ease.
+3. I would be able to understand how the web works.
+4. I would be able to learn and use the JavaScript language along with other resources needed for the course. 
